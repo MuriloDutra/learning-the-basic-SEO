@@ -1,0 +1,3 @@
+SERP - Search engine results page
+
+It's the page that shows up when you search for something using Google or others search tools

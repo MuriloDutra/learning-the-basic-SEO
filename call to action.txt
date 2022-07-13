@@ -1,0 +1,5 @@
+Call to action - texts, buttons etc that will bring you more users to use your site or services.
+EXAMPLES: 
+    1) Click here to know more
+    2) Call now and schedule an appointment
+    3) Get in touch using the form below

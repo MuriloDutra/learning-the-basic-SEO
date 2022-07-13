@@ -1,0 +1,14 @@
+1) Title - page's title
+
+2) Meta tag or meta description - always write the description thinking in the user experience, nowadays,
+the description isn't that important for search engines, but it's important for the user. Because he can learn
+a little bit about your website just by reading the description. So try to be short and straight to the point in your
+description 
+
+3) Images[alt text] - It's the image's description. Google understands better your image if it has an description.
+Also it's important for people with desabilities, this descriptions help them to understand what the image and your content are about.
+
+4) Headings - Use h1, h2, h3, h4, h5, h6 tags
+
+5) a. Use trustful links inside your site, if your mentioning something from another website, make sure it's a good source
+   b. Avoid using unnamed links, for example: "domain.com/37dghf38kd9efe8". Something like this would be better: "domain.com/subdomain"
